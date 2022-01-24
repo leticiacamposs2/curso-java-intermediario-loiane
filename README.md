@@ -32,7 +32,7 @@ Assuntos abordados:
 
 - [x] 01: Enumeradores (Enum)
 - [x] 02: Enumeradores como classe (construtor e métodos)
-- [ ] 03: Enum: métodos value e valueOf
+- [x] 03: Enum: métodos value e valueOf
 - [ ] 04: Enum: métodos abstratos
 - [ ] 05: Correção Exercícios Enum (calculadora com Enum)
 
