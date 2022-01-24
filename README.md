@@ -18,8 +18,20 @@ Assuntos abordados:
 
 ### Aulas ( 📚 )
 
-- [ ] Enumeradores (Enum)
+- [ ] [Enumeradores (Enum)](#enumeradores)
 - [ ] Mais Elementos básicos da linguagem Java
 - [ ] Programação multi-tarefas: Threads
 - [ ] Trabalhando com Strings
 - [ ] Classes Utilitárias (Datas, Locale, Math)
+
+***
+
+<div id="enumeradores" />
+
+#### Enumeradores (Enum) ( 💥 )
+
+- [x] 01: Enumeradores (Enum)
+- [ ] 02: Enumeradores como classe (construtor e métodos)
+- [ ] 03: Enum: métodos value e valueOf
+- [ ] 04: Enum: métodos abstratos
+- [ ] 05: Correção Exercícios Enum (calculadora com Enum)
