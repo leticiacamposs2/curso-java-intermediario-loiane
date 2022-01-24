@@ -18,8 +18,8 @@ Assuntos abordados:
 
 ### Aulas ( 📚 )
 
-- [ ] [Enumeradores (Enum)](#enumeradores)
-- [ ] Mais Elementos básicos da linguagem Java
+- [x] [Enumeradores (Enum)](#enumeradores)
+- [ ] [Mais Elementos básicos da linguagem Java](#elementos-basicos)
 - [ ] Programação multi-tarefas: Threads
 - [ ] Trabalhando com Strings
 - [ ] Classes Utilitárias (Datas, Locale, Math)
@@ -34,7 +34,7 @@ Assuntos abordados:
 - [x] 02: Enumeradores como classe (construtor e métodos)
 - [x] 03: Enum: métodos value e valueOf
 - [x] 04: Enum: métodos abstratos
-- [ ] 05: Correção Exercícios Enum (calculadora com Enum)
+- [x] 05: Correção Exercícios Enum (calculadora com Enum)
 
 ##### Dicas sobre Enum:
 
@@ -45,3 +45,18 @@ Assuntos abordados:
 - Pode ser declarado separadamente ou dentro de classe
 
 ***
+
+<div id="elementos-basicos" />
+
+#### Mais Elementos básicos da linguagem Java ( 💥 )
+
+- [ ] 01: Wrappers: classes de tipos primitivos
+- [ ] 02: Autoboxing e Unboxing
+- [ ] 03: Importação estática (static import)
+- [ ] 04: Escopo de variáveis
+- [ ] 05: Passagem de parâmetros por valor e por referência
+- [ ] 06: Varargs
+- [ ] 07: printf
+- [ ] 08: Classes aninhadas: internas, locais e anônimas
+- [ ] 09: Annotations (Anotações)
+- [ ] 10: Garbage Collector (Coletor de Lixo)
