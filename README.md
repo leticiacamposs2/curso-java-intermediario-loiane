@@ -31,7 +31,17 @@ Assuntos abordados:
 #### Enumeradores (Enum) ( 💥 )
 
 - [x] 01: Enumeradores (Enum)
-- [ ] 02: Enumeradores como classe (construtor e métodos)
+- [x] 02: Enumeradores como classe (construtor e métodos)
 - [ ] 03: Enum: métodos value e valueOf
 - [ ] 04: Enum: métodos abstratos
 - [ ] 05: Correção Exercícios Enum (calculadora com Enum)
+
+##### Dicas sobre Enum:
+
+- Enums extends a classe java.lang.Enum
+- Podem ser comparadas usando ==
+- Não podem ser instanciadas com new
+- Podem implementar interfaces
+- Pode ser declarado separadamente ou dentro de classe
+
+***
