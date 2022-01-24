@@ -1,7 +1,5 @@
 package com.leticia.cursojavaintermediario.exer56;
 
-import com.leticia.cursojavaintermediario.aula54.DiaSemana;
-
 /*
  *  Escreva um Enum que represente as quatro operações matemáticas:
  *  somar, subtrair, multiplicar e dividir
@@ -23,15 +21,16 @@ public class Calculadora {
 
 	public static void main(String[] args) {
 		
-		OperacoesMatematicas somar = OperacoesMatematicas.SOMAR;
-		OperacoesMatematicas subtrair = OperacoesMatematicas.SUBTRAIR;
-		OperacoesMatematicas multiplicar = OperacoesMatematicas.MULTIPLICAR;
-		OperacoesMatematicas dividir = OperacoesMatematicas.DIVIDIR;
+		double x = 2.0;
+		double y = 2.0;
 		
-		System.out.println(somar.toString() + " - " + somar.executarOperacao(2, 2));
-		System.out.println(subtrair.toString() + " - " + subtrair.executarOperacao(2, 2));
-		System.out.println(multiplicar.toString() + " - " + multiplicar.executarOperacao(2, 2));
-		System.out.println(dividir.toString() + " - " + dividir.executarOperacao(2, 2));
+		for (OperacoesMatematicas operacao : OperacoesMatematicas.values()) {
+			System.out.println(x + " - ");
+			System.out.println(operacao.toString() + " ");
+			System.out.println(y + " - ");
+			System.out.println(operacao.toString() + " ");
+			System.out.println(operacao.executarOperacao(x, y));
+		}		
 	}
 
 }
