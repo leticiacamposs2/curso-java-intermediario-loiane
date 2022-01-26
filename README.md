@@ -53,7 +53,7 @@ Assuntos abordados:
 - [x] 01: Wrappers: classes de tipos primitivos
 - [x] 02: Autoboxing e Unboxing
 - [x] 03: Importação estática (static import)
-- [ ] 04: Escopo de variáveis
+- [x] 04: Escopo de variáveis
 - [ ] 05: Passagem de parâmetros por valor e por referência
 - [ ] 06: Varargs
 - [ ] 07: printf
