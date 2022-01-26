@@ -12,6 +12,10 @@ public class Teste {
 		System.out.println(escopo.getValor()); //10
 		System.out.println(escopo.teste()); //4
 		System.out.println(escopo.getValor()); //10
+		
+		escopo.outroTeste(); // 0 1 2 3 4 5 6 7 8 9 10
+		escopo.maisUmTeste(); // 11
+		escopo.maisUmOutroTeste(0);
 	}
 
 }
