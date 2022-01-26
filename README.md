@@ -51,7 +51,7 @@ Assuntos abordados:
 #### Mais Elementos básicos da linguagem Java ( 💥 )
 
 - [x] 01: Wrappers: classes de tipos primitivos
-- [ ] 02: Autoboxing e Unboxing
+- [x] 02: Autoboxing e Unboxing
 - [ ] 03: Importação estática (static import)
 - [ ] 04: Escopo de variáveis
 - [ ] 05: Passagem de parâmetros por valor e por referência
