@@ -50,7 +50,7 @@ Assuntos abordados:
 
 #### Mais Elementos básicos da linguagem Java ( 💥 )
 
-- [ ] 01: Wrappers: classes de tipos primitivos
+- [x] 01: Wrappers: classes de tipos primitivos
 - [ ] 02: Autoboxing e Unboxing
 - [ ] 03: Importação estática (static import)
 - [ ] 04: Escopo de variáveis
@@ -60,3 +60,5 @@ Assuntos abordados:
 - [ ] 08: Classes aninhadas: internas, locais e anônimas
 - [ ] 09: Annotations (Anotações)
 - [ ] 10: Garbage Collector (Coletor de Lixo)
+
+***
