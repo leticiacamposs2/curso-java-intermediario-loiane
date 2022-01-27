@@ -61,4 +61,6 @@ Assuntos abordados:
 - [ ] 09: Annotations (Anotações)
 - [ ] 10: Garbage Collector (Coletor de Lixo)
 
+![referencia](https://user-images.githubusercontent.com/34458509/151283280-d8dc0340-9734-4877-91a8-83bb49330fef.PNG)
+
 ***
