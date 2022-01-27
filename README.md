@@ -55,7 +55,7 @@ Assuntos abordados:
 - [x] 03: Importação estática (static import)
 - [x] 04: Escopo de variáveis
 - [x] 05: Passagem de parâmetros por valor e por referência
-- [ ] 06: Varargs
+- [x] 06: Varargs
 - [ ] 07: printf
 - [ ] 08: Classes aninhadas: internas, locais e anônimas
 - [ ] 09: Annotations (Anotações)
