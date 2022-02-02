@@ -1,4 +1,4 @@
-package com.leticia.cursojavaintermediario.exer57;
+package com.leticia.cursojavaintermediario.aula64;
 
 public class Externa {
 	

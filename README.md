@@ -58,9 +58,10 @@ Assuntos abordados:
 - [x] 06: Varargs
 - [x] 07: printf
 - [x] 08: Classes aninhadas: internas, locais e anônimas
-- [ ] 09: Annotations (Anotações)
+- [x] 09: Annotations (Anotações)
 - [ ] 10: Garbage Collector (Coletor de Lixo)
 
 ![referencia](https://user-images.githubusercontent.com/34458509/151283280-d8dc0340-9734-4877-91a8-83bb49330fef.PNG)
 
 ***
+
