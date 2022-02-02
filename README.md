@@ -20,7 +20,7 @@ Assuntos abordados:
 
 - [x] [Enumeradores (Enum)](#enumeradores)
 - [x] [Mais Elementos básicos da linguagem Java](#elementos-basicos)
-- [ ] Programação multi-tarefas: Threads
+- [ ] [Programação multi-tarefas: Threads](#threads)
 - [ ] Trabalhando com Strings
 - [ ] Classes Utilitárias (Datas, Locale, Math)
 
@@ -65,3 +65,18 @@ Assuntos abordados:
 
 ***
 
+<div id="threads" />
+
+#### Programação multi-tarefas: Threads( 💥 )
+
+- [ ] 01: Criando Threads + métodos start, run e sleep
+- [ ] 02: Threads: Interface Runnable
+- [ ] 03: Criando várias Threads + métodos isAlive e join
+- [ ] 04: Threads: Definindo prioridades
+- [ ] 05: Threads: métodos e blocos sincronizados (synchronized)
+- [ ] 06: Threads: notify, wait e notifyAll
+- [ ] 07: Threads: resume, suspend e stop
+- [ ] 08: Threads: deadlocks
+- [ ] 09: Exercícios Aula 74: Semáfaro com Threads
+
+***
