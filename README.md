@@ -63,13 +63,15 @@ Assuntos abordados:
 
 ![referencia](https://user-images.githubusercontent.com/34458509/151283280-d8dc0340-9734-4877-91a8-83bb49330fef.PNG)
 
+![memoriaHeap](https://user-images.githubusercontent.com/34458509/152081447-75efa4d7-707f-4e84-b028-6b961e1b842c.png)
+
 ***
 
 <div id="threads" />
 
 #### Programação multi-tarefas: Threads( 💥 )
 
-- [ ] 01: Criando Threads + métodos start, run e sleep
+- [x] 01: Criando Threads + métodos start, run e sleep
 - [ ] 02: Threads: Interface Runnable
 - [ ] 03: Criando várias Threads + métodos isAlive e join
 - [ ] 04: Threads: Definindo prioridades
@@ -78,5 +80,7 @@ Assuntos abordados:
 - [ ] 07: Threads: resume, suspend e stop
 - [ ] 08: Threads: deadlocks
 - [ ] 09: Exercícios Aula 74: Semáfaro com Threads
+
+![ciclo-de-vida-thread](https://user-images.githubusercontent.com/34458509/152081374-53bd97a0-80dc-491d-88fc-5308712221f7.png)
 
 ***
