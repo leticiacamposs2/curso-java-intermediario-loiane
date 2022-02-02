@@ -56,7 +56,7 @@ Assuntos abordados:
 - [x] 04: Escopo de variáveis
 - [x] 05: Passagem de parâmetros por valor e por referência
 - [x] 06: Varargs
-- [ ] 07: printf
+- [x] 07: printf
 - [ ] 08: Classes aninhadas: internas, locais e anônimas
 - [ ] 09: Annotations (Anotações)
 - [ ] 10: Garbage Collector (Coletor de Lixo)
