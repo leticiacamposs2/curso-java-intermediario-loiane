@@ -65,6 +65,8 @@ public class ExemploPrintf {
 		 * Item 04: total de R$      1,00
 		 * Item 05: total de R$      4,57
 		 */
+		
+		// Na vida real usamos Java.util.Formater
 	}
 
 }

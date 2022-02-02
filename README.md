@@ -57,7 +57,7 @@ Assuntos abordados:
 - [x] 05: Passagem de parâmetros por valor e por referência
 - [x] 06: Varargs
 - [x] 07: printf
-- [ ] 08: Classes aninhadas: internas, locais e anônimas
+- [x] 08: Classes aninhadas: internas, locais e anônimas
 - [ ] 09: Annotations (Anotações)
 - [ ] 10: Garbage Collector (Coletor de Lixo)
 
