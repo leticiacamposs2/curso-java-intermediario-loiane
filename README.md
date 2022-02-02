@@ -21,8 +21,8 @@ Assuntos abordados:
 - [x] [Enumeradores (Enum)](#enumeradores)
 - [x] [Mais Elementos básicos da linguagem Java](#elementos-basicos)
 - [ ] [Programação multi-tarefas: Threads](#threads)
-- [ ] Trabalhando com Strings
-- [ ] Classes Utilitárias (Datas, Locale, Math)
+- [ ] [Trabalhando com Strings](#strings)
+- [ ] [Classes Utilitárias (Datas, Locale, Math)](#classes-utilitarias)
 
 ***
 
@@ -84,3 +84,44 @@ Assuntos abordados:
 ![ciclo-de-vida-thread](https://user-images.githubusercontent.com/34458509/152081374-53bd97a0-80dc-491d-88fc-5308712221f7.png)
 
 ***
+
+<div id="strings" />
+
+#### Trabalhando com Strings( 💥 )
+
+- [ ] 01: String: construtores
+- [ ] 02: String: concatenação
+- [ ] 03: String: extraindo chars (charAt, getChars, getBytes, toCharArray)
+- [ ] 04: String: comparação de Strings (equalsIgnoreCase, regionMatches, startWith, endsWith, compareTo)
+- [ ] 05: String: fazendo buscas (indexOf, lastIndexOf, contains)
+- [ ] 06: String: modificando uma String (substring, concat, replace, trim)
+- [ ] 07: String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
+- [ ] 08: String: juntando e separando String (join, split)
+- [ ] 09: concatenação com StringBuilder e StringBuffer
+- [ ] 10: String Tokenizer
+
+***
+
+<div id="classes-utilitarias" />
+
+#### Classes Utilitárias (Datas, Locale, Math ( 💥 )
+
+- [ ] 01: Classes Utilitárias
+- [ ] 02: Classe Math
+- [ ] 03: Classe Date (Data)
+- [ ] 04: Classe Calendar
+- [ ] 05: Classe GregorianCalendar
+- [ ] 06: Formatando datas com SimpleDateFormat
+- [ ] 07: Locale (internacionalização)
+- [ ] 08: Formatando datas com DateFormat e Locale
+- [ ] 09: TimeZone (Fuso Horário)
+- [ ] 10: Data no Java 8+: LocalDate, LocalDateTime, LocalTime, ZoneId, ZoneDateTime
+- [ ] 11: ResourceBundle
+- [ ] 12: Formatando Números: NumberFormat
+- [ ] 13: Formatando Números: DecimalFormat
+- [ ] 14: Trabalhando com BigDecimal e BigInteger
+- [ ] 15: Números Aleatórios (Random)
+- [ ] 16: Instalando jars no Projeto
+
+***
+
