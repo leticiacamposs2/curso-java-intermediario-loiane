@@ -19,7 +19,7 @@ Assuntos abordados:
 ### Aulas ( 📚 )
 
 - [x] [Enumeradores (Enum)](#enumeradores)
-- [ ] [Mais Elementos básicos da linguagem Java](#elementos-basicos)
+- [x] [Mais Elementos básicos da linguagem Java](#elementos-basicos)
 - [ ] Programação multi-tarefas: Threads
 - [ ] Trabalhando com Strings
 - [ ] Classes Utilitárias (Datas, Locale, Math)
@@ -59,7 +59,7 @@ Assuntos abordados:
 - [x] 07: printf
 - [x] 08: Classes aninhadas: internas, locais e anônimas
 - [x] 09: Annotations (Anotações)
-- [ ] 10: Garbage Collector (Coletor de Lixo)
+- [x] 10: Garbage Collector (Coletor de Lixo)
 
 ![referencia](https://user-images.githubusercontent.com/34458509/151283280-d8dc0340-9734-4877-91a8-83bb49330fef.PNG)
 
