@@ -72,7 +72,7 @@ Assuntos abordados:
 #### Programação multi-tarefas: Threads( 💥 )
 
 - [x] 01: Criando Threads + métodos start, run e sleep
-- [ ] 02: Threads: Interface Runnable
+- [x] 02: Threads: Interface Runnable
 - [ ] 03: Criando várias Threads + métodos isAlive e join
 - [ ] 04: Threads: Definindo prioridades
 - [ ] 05: Threads: métodos e blocos sincronizados (synchronized)

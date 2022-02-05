@@ -1,16 +1,18 @@
-package com.leticia.cursojavaintermediario.aula67;
+package com.leticia.cursojavaintermediario.aula68;
 
-public class MinhaThread extends Thread {
+public class MinhaThreadRunnable implements Runnable {
 	
 	private String nome;
 	private int valorAdormecida;
 	
-	public MinhaThread(String nome, int valorAdormecida) {
+	public MinhaThreadRunnable(String nome, int valorAdormecida) {
 		this.nome = nome;
 		this.valorAdormecida = valorAdormecida;
-		start();
+		Thread t = new Thread(this);
+		t.start();
 	}
 	
+	@Override
 	public void run() {
 		System.out.println(nome + " foi iniciada");
 
