@@ -92,8 +92,8 @@ Assuntos abordados:
 
 #### Classes Utilitárias (Datas, Locale, Math ( 📅 )
 
-- [ ] 01: Classes Utilitárias
-- [ ] 02: Classe Math
+- [x] 01: Classes Utilitárias
+- [x] 02: Classe Math
 - [ ] 03: Classe Date (Data)
 - [ ] 04: Classe Calendar
 - [ ] 05: Classe GregorianCalendar

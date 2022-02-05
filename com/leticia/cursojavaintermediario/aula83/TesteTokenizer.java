@@ -6,7 +6,7 @@ public class TesteTokenizer {
 
 	public static void main(String[] args) {
 		
-		String doArquivo = "1;Antônio;30;";
+		String doArquivo = "1;Leticia;30;";
 		
 		StringTokenizer st = new StringTokenizer(doArquivo, ";");
 		
