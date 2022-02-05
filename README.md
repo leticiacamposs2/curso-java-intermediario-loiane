@@ -97,8 +97,8 @@ Assuntos abordados:
 - [x] 03: Classe Date (Data)
 - [x] 04: Classe Calendar
 - [x] 05: Classe GregorianCalendar
-- [ ] 06: Formatando datas com SimpleDateFormat
-- [ ] 07: Locale (internacionalização)
+- [x] 06: Formatando datas com SimpleDateFormat
+- [x] 07: Locale (internacionalização)
 - [ ] 08: Formatando datas com DateFormat e Locale
 - [ ] 09: TimeZone (Fuso Horário)
 - [ ] 10: Data no Java 8+: LocalDate, LocalDateTime, LocalTime, ZoneId, ZoneDateTime
