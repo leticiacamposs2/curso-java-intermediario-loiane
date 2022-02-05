@@ -81,8 +81,8 @@ Assuntos abordados:
 - [x] 04: String: comparação de Strings (equalsIgnoreCase, regionMatches, startWith, endsWith, compareTo)
 - [x] 05: String: fazendo buscas (indexOf, lastIndexOf, contains)
 - [x] 06: String: modificando uma String (substring, concat, replace, trim)
-- [ ] 07: String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
-- [ ] 08: String: juntando e separando String (join, split)
+- [x] 07: String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
+- [x] 08: String: juntando e separando String (join, split)
 - [ ] 09: concatenação com StringBuilder e StringBuffer
 - [ ] 10: String Tokenizer
 
