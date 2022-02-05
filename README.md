@@ -83,7 +83,7 @@ Assuntos abordados:
 - [x] 06: String: modificando uma String (substring, concat, replace, trim)
 - [x] 07: String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
 - [x] 08: String: juntando e separando String (join, split)
-- [ ] 09: concatenação com StringBuilder e StringBuffer
+- [x 09: concatenação com StringBuilder e StringBuffer
 - [ ] 10: String Tokenizer
 
 ***
