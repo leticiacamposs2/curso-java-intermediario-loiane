@@ -20,7 +20,7 @@ Assuntos abordados:
 
 - [x] [Enumeradores (Enum)](#enumeradores)
 - [x] [Mais Elementos básicos da linguagem Java](#elementos-basicos)
-- [ ] [Programação multi-tarefas: Threads](#threads)
+- [x] [Programação multi-tarefas: Threads](#threads)
 - [ ] [Trabalhando com Strings](#strings)
 - [ ] [Classes Utilitárias (Datas, Locale, Math)](#classes-utilitarias)
 
@@ -28,21 +28,13 @@ Assuntos abordados:
 
 <div id="enumeradores" />
 
-#### Enumeradores (Enum) ( 💥 )
+#### Enumeradores (Enum) ( 🔢 )
 
 - [x] 01: Enumeradores (Enum)
 - [x] 02: Enumeradores como classe (construtor e métodos)
 - [x] 03: Enum: métodos value e valueOf
 - [x] 04: Enum: métodos abstratos
 - [x] 05: Correção Exercícios Enum (calculadora com Enum)
-
-##### Dicas sobre Enum:
-
-- Enums extends a classe java.lang.Enum
-- Podem ser comparadas usando ==
-- Não podem ser instanciadas com new
-- Podem implementar interfaces
-- Pode ser declarado separadamente ou dentro de classe
 
 ***
 
@@ -65,7 +57,7 @@ Assuntos abordados:
 
 <div id="threads" />
 
-#### Programação multi-tarefas: Threads( 💥 )
+#### Programação multi-tarefas: Threads( 🚦 )
 
 - [x] 01: Criando Threads + métodos start, run e sleep
 - [x] 02: Threads: Interface Runnable
@@ -81,9 +73,9 @@ Assuntos abordados:
 
 <div id="strings" />
 
-#### Trabalhando com Strings( 💥 )
+#### Trabalhando com Strings( 🔤 )
 
-- [ ] 01: String: construtores
+- [x] 01: String: construtores
 - [ ] 02: String: concatenação
 - [ ] 03: String: extraindo chars (charAt, getChars, getBytes, toCharArray)
 - [ ] 04: String: comparação de Strings (equalsIgnoreCase, regionMatches, startWith, endsWith, compareTo)
@@ -98,7 +90,7 @@ Assuntos abordados:
 
 <div id="classes-utilitarias" />
 
-#### Classes Utilitárias (Datas, Locale, Math ( 💥 )
+#### Classes Utilitárias (Datas, Locale, Math ( 📅 )
 
 - [ ] 01: Classes Utilitárias
 - [ ] 02: Classe Math
