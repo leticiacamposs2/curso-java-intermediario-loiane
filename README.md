@@ -96,7 +96,7 @@ Assuntos abordados:
 - [x] 02: Classe Math
 - [x] 03: Classe Date (Data)
 - [x] 04: Classe Calendar
-- [ ] 05: Classe GregorianCalendar
+- [x] 05: Classe GregorianCalendar
 - [ ] 06: Formatando datas com SimpleDateFormat
 - [ ] 07: Locale (internacionalização)
 - [ ] 08: Formatando datas com DateFormat e Locale
