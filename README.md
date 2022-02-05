@@ -75,7 +75,7 @@ Assuntos abordados:
 - [x] 06: Threads: notify, wait e notifyAll
 - [x] 07: Threads: resume, suspend e stop
 - [x] 08: Threads: deadlocks
-- [ ] 09: Exercícios Aula 74: Semáfaro com Threads
+- [x] 09: Exercícios Aula 74: Semáfaro com Threads
 
 ***
 
