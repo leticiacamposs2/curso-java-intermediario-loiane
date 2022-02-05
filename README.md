@@ -74,7 +74,7 @@ Assuntos abordados:
 - [x] 05: Threads: métodos e blocos sincronizados (synchronized)
 - [x] 06: Threads: notify, wait e notifyAll
 - [x] 07: Threads: resume, suspend e stop
-- [ ] 08: Threads: deadlocks
+- [x] 08: Threads: deadlocks
 - [ ] 09: Exercícios Aula 74: Semáfaro com Threads
 
 ***
