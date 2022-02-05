@@ -78,7 +78,7 @@ Assuntos abordados:
 - [x] 01: String: construtores
 - [x] 02: String: concatenação
 - [x] 03: String: extraindo chars (charAt, getChars, getBytes, toCharArray)
-- [ ] 04: String: comparação de Strings (equalsIgnoreCase, regionMatches, startWith, endsWith, compareTo)
+- [x] 04: String: comparação de Strings (equalsIgnoreCase, regionMatches, startWith, endsWith, compareTo)
 - [ ] 05: String: fazendo buscas (indexOf, lastIndexOf, contains)
 - [ ] 06: String: modificando uma String (substring, concat, replace, trim)
 - [ ] 07: String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
