@@ -8,7 +8,7 @@ public class ConcatenaBuilderBuffer {
 
 		String alfabeto = "";
 		
-		for (String letra : letras){
+		for (String letra : letras) {
 			alfabeto += letra;
 		}
 

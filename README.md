@@ -21,7 +21,7 @@ Assuntos abordados:
 - [x] [Enumeradores (Enum)](#enumeradores)
 - [x] [Mais Elementos básicos da linguagem Java](#elementos-basicos)
 - [x] [Programação multi-tarefas: Threads](#threads)
-- [ ] [Trabalhando com Strings](#strings)
+- [x] [Trabalhando com Strings](#strings)
 - [ ] [Classes Utilitárias (Datas, Locale, Math)](#classes-utilitarias)
 
 ***
@@ -83,8 +83,8 @@ Assuntos abordados:
 - [x] 06: String: modificando uma String (substring, concat, replace, trim)
 - [x] 07: String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
 - [x] 08: String: juntando e separando String (join, split)
-- [x 09: concatenação com StringBuilder e StringBuffer
-- [ ] 10: String Tokenizer
+- [x] 09: concatenação com StringBuilder e StringBuffer
+- [x] 10: String Tokenizer
 
 ***
 
