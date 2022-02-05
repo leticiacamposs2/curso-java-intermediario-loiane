@@ -94,7 +94,7 @@ Assuntos abordados:
 
 - [x] 01: Classes Utilitárias
 - [x] 02: Classe Math
-- [ ] 03: Classe Date (Data)
+- [x] 03: Classe Date (Data)
 - [ ] 04: Classe Calendar
 - [ ] 05: Classe GregorianCalendar
 - [ ] 06: Formatando datas com SimpleDateFormat
