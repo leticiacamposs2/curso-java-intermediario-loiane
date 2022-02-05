@@ -73,7 +73,7 @@ Assuntos abordados:
 - [x] 04: Threads: Definindo prioridades
 - [x] 05: Threads: métodos e blocos sincronizados (synchronized)
 - [x] 06: Threads: notify, wait e notifyAll
-- [ ] 07: Threads: resume, suspend e stop
+- [x] 07: Threads: resume, suspend e stop
 - [ ] 08: Threads: deadlocks
 - [ ] 09: Exercícios Aula 74: Semáfaro com Threads
 
