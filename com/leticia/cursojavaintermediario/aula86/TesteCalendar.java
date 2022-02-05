@@ -18,6 +18,14 @@ public class TesteCalendar {
 		System.out.printf("Hoje é: %02d/%02d/%d %d:%d:%d", 
 				dia, (mes+1), ano, hora, minutos, segundos
 		);
+		
+		hoje.add(Calendar.DAY_OF_MONTH, -1);
+		
+		hoje.add(Calendar.DAY_OF_MONTH, 6);
+
+		System.out.println();
+		
+		System.out.println(hoje.get(Calendar.DAY_OF_MONTH));
 	}
 
 }
