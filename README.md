@@ -74,8 +74,8 @@ Assuntos abordados:
 - [x] 01: Criando Threads + métodos start, run e sleep
 - [x] 02: Threads: Interface Runnable
 - [x] 03: Criando várias Threads + métodos isAlive e join
-- [ ] 04: Threads: Definindo prioridades
-- [ ] 05: Threads: métodos e blocos sincronizados (synchronized)
+- [x] 04: Threads: Definindo prioridades
+- [x] 05: Threads: métodos e blocos sincronizados (synchronized)
 - [ ] 06: Threads: notify, wait e notifyAll
 - [ ] 07: Threads: resume, suspend e stop
 - [ ] 08: Threads: deadlocks
