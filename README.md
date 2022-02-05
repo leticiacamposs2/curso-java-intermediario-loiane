@@ -80,7 +80,7 @@ Assuntos abordados:
 - [x] 03: String: extraindo chars (charAt, getChars, getBytes, toCharArray)
 - [x] 04: String: comparação de Strings (equalsIgnoreCase, regionMatches, startWith, endsWith, compareTo)
 - [x] 05: String: fazendo buscas (indexOf, lastIndexOf, contains)
-- [ ] 06: String: modificando uma String (substring, concat, replace, trim)
+- [x] 06: String: modificando uma String (substring, concat, replace, trim)
 - [ ] 07: String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
 - [ ] 08: String: juntando e separando String (join, split)
 - [ ] 09: concatenação com StringBuilder e StringBuffer
