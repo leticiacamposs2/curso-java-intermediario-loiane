@@ -22,7 +22,7 @@ Assuntos abordados:
 - [x] [Mais Elementos básicos da linguagem Java](#elementos-basicos)
 - [x] [Programação multi-tarefas: Threads](#threads)
 - [x] [Trabalhando com Strings](#strings)
-- [ ] [Classes Utilitárias (Datas, Locale, Math)](#classes-utilitarias)
+- [x] [Classes Utilitárias (Datas, Locale, Math)](#classes-utilitarias)
 
 ***
 
@@ -107,7 +107,7 @@ Assuntos abordados:
 - [x] 13: Formatando Números: DecimalFormat
 - [x] 14: Trabalhando com BigDecimal e BigInteger
 - [x] 15: Números Aleatórios (Random)
-- [ ] 16: Instalando jars no Projeto
+- [x] 16: Instalando [jars](https://commons.apache.org/) no Projeto
 
 ***
 
