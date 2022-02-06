@@ -101,7 +101,7 @@ Assuntos abordados:
 - [x] 07: Locale (internacionalização)
 - [x] 08: Formatando datas com DateFormat e Locale
 - [x] 09: TimeZone (Fuso Horário)
-- [ ] 10: Data no Java 8+: LocalDate, LocalDateTime, LocalTime, ZoneId, ZoneDateTime
+- [x] 10: Data no Java 8+: LocalDate, LocalDateTime, LocalTime, ZoneId, ZoneDateTime
 - [ ] 11: ResourceBundle
 - [ ] 12: Formatando Números: NumberFormat
 - [ ] 13: Formatando Números: DecimalFormat
