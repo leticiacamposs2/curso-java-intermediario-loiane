@@ -104,7 +104,7 @@ Assuntos abordados:
 - [x] 10: Data no Java 8+: LocalDate, LocalDateTime, LocalTime, ZoneId, ZoneDateTime
 - [x] 11: ResourceBundle
 - [x] 12: Formatando Números: NumberFormat
-- [ ] 13: Formatando Números: DecimalFormat
+- [x] 13: Formatando Números: DecimalFormat
 - [ ] 14: Trabalhando com BigDecimal e BigInteger
 - [ ] 15: Números Aleatórios (Random)
 - [ ] 16: Instalando jars no Projeto
