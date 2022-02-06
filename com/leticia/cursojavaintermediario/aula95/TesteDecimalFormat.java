@@ -6,7 +6,7 @@ import java.util.Locale;
 
 public class TesteDecimalFormat {
 
-public static void main(String[] args) {
+	public static void main(String[] args) {
 		
 		String padrao = "###,###.##";
 		DecimalFormat df = new DecimalFormat(padrao);
@@ -39,4 +39,3 @@ public static void main(String[] args) {
 12.3456.7890,12
 ¤010,00%
 */
- */

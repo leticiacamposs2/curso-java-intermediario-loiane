@@ -105,7 +105,7 @@ Assuntos abordados:
 - [x] 11: ResourceBundle
 - [x] 12: Formatando Números: NumberFormat
 - [x] 13: Formatando Números: DecimalFormat
-- [ ] 14: Trabalhando com BigDecimal e BigInteger
+- [x] 14: Trabalhando com BigDecimal e BigInteger
 - [ ] 15: Números Aleatórios (Random)
 - [ ] 16: Instalando jars no Projeto
 

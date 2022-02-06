@@ -8,7 +8,7 @@ import java.util.Locale;
 
 public class TesteNumberFormat {
 
-public static void main(String[] args) throws ParseException {
+	public static void main(String[] args) throws ParseException {
 		
 		// 1.000,00 - Brasil
 		// 1,000.00 - EUA
