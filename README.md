@@ -103,7 +103,7 @@ Assuntos abordados:
 - [x] 09: TimeZone (Fuso Horário)
 - [x] 10: Data no Java 8+: LocalDate, LocalDateTime, LocalTime, ZoneId, ZoneDateTime
 - [x] 11: ResourceBundle
-- [ ] 12: Formatando Números: NumberFormat
+- [x] 12: Formatando Números: NumberFormat
 - [ ] 13: Formatando Números: DecimalFormat
 - [ ] 14: Trabalhando com BigDecimal e BigInteger
 - [ ] 15: Números Aleatórios (Random)
